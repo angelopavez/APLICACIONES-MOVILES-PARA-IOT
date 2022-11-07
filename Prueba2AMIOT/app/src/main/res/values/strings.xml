@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba 2 AMIOT</string>
+    <string-array name="condicion">
+        <item>Nuevo</item>
+        <item>Usado</item>
+        <item>Renovado</item>
+        <item>Desconocido</item>
+    </string-array>
+</resources>
